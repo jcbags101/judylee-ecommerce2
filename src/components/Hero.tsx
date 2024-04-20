@@ -3,10 +3,10 @@ import Link from "next/link";
 import React from "react";
 
 interface IProps {
-  setRatio: (value: number) => void;
+  setRatio?: (value: number) => void;
 }
 
-export default function Hero({ setRatio }: IProps) {
+export default function Hero() {
   return (
     <div className="flex justify-center items-center px-16 py-16 bg-white max-md:px-5">
       <div className="mt-36 max-w-full w-[1226px] max-md:mt-10">
