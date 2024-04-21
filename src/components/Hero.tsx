@@ -20,7 +20,7 @@ export default function Hero() {
                 you can explore the latest collections of clothing and
                 accessories
                 <br />
-                from various barands here.
+                from various brands here.
               </div>
               <div className="flex gap-2 justify-between self-start px-7 py-5 mt-20 text-white bg-gray-800 max-md:px-5 max-md:mt-10">
                 <div className="my-auto text-2xl font-black text-center"></div>
