@@ -17,7 +17,7 @@ export default function Hero() {
                 Collections
               </div>
               <div className="mt-16 text-3xl capitalize leading-[55px] max-md:mt-10 max-md:max-w-full">
-                you can explore the latest collections of clothing and
+                you can explore the latest collections of beauty products and
                 accessories
                 <br />
                 from various brands here.
